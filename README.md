@@ -12,8 +12,6 @@ I'm a **Frontend Developer** and **UX Designer** who loves crafting clean, respo
   &nbsp;&nbsp;&nbsp;&nbsp;• **Design System Architecture**  
 - 🤝 Open to collaborate on frontend projects, component libraries, or product design challenges.
 
---
-
 ### 🚀 Tech Stack
 
 - **Languages**: JavaScript, HTML, CSS, PHP, Markdown  
@@ -21,21 +19,15 @@ I'm a **Frontend Developer** and **UX Designer** who loves crafting clean, respo
 - **Design Tools**: Figma, Framer, Webflow  
 - **Other Tools**: Git, GitHub, VS Code, Vite
 
----
-
 ### 📫 How to reach me?
 
 - ✉️ Email: [candradwiwaskito@gmail.com](mailto:candradwiwaskito@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/candradwiwaskito](https://linkedin.com/in/candradwiwaskito)
 - 🌐 Portfolio: [candrawaskito.com](https://candrawaskito.com)
 
----
-
 ### 📈 GitHub Stats
 
 ![Candra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=candrawaskito&show_icons=true&theme=default)
-
----
 
 Thanks for stopping by! 😊
 
