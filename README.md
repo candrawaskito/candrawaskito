@@ -2,8 +2,6 @@
 
 I'm a **Frontend Developer** and **UX Designer** who loves crafting clean, responsive interfaces and scalable design systems.
 
----
-
 ### 👨‍💻 About Me
 
 - 🎯 Passionate about building intuitive **user interfaces**, **insightful dashboards**, and **efficient design systems**.
@@ -14,7 +12,7 @@ I'm a **Frontend Developer** and **UX Designer** who loves crafting clean, respo
   &nbsp;&nbsp;&nbsp;&nbsp;• **Design System Architecture**  
 - 🤝 Open to collaborate on frontend projects, component libraries, or product design challenges.
 
----
+--
 
 ### 🚀 Tech Stack
 
